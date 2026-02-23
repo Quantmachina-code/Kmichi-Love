@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" fill="none">
+  <circle cx="22" cy="25" r="16" fill="#C0392B"/>
+  <text x="22" y="31" text-anchor="middle" font-size="18" fill="white">🌶</text>
+  <text x="46" y="20" font-family="Georgia, serif" font-size="16" font-weight="700" fill="white">Kimchi</text>
+  <text x="46" y="38" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#E74C3C">Love</text>
+</svg>

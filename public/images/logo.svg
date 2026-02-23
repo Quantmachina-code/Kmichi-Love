@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" fill="none">
+  <!-- Flame/heart icon -->
+  <circle cx="22" cy="25" r="16" fill="#C0392B"/>
+  <text x="22" y="31" text-anchor="middle" font-size="18" fill="white">🌶</text>
+  <!-- Text -->
+  <text x="46" y="20" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1A1A1A">Kimchi</text>
+  <text x="46" y="38" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#C0392B">Love</text>
+</svg>
