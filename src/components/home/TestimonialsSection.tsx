@@ -58,7 +58,7 @@ export function TestimonialsSection() {
                   <Star key={j} size={16} className="text-yellow-400 fill-yellow-400" />
                 ))}
               </div>
-              <p className="text-gray-300 leading-relaxed mb-5 italic">"{t.text}"</p>
+              <p className="text-gray-300 leading-relaxed mb-5 italic">&quot;{t.text}&quot;</p>
               <div>
                 <p className="font-semibold text-white">{t.name}</p>
                 <p className="text-gray-500 text-sm">{t.location}</p>
